@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #518ac3;
+  }
+  
+  .container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  #loginSection{
+    background-color: rgb(210, 147, 157);
+  }
+
+  #studentDetails{
+    background-color: rgb(208, 146, 157);
+  }
+  /* Heading Styles */
+  h2, h3 {
+    color: #343a40;
+  }
+  
+  h2 {
+    margin-bottom: 30px;
+  }
+  
+  h3 {
+    margin-bottom: 20px;
+  }
+  
+  /* Form Styles */
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-radius: 4px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
+  /* Student Details Styles */
+  #studentDetails {
+    border-top: 2px solid #343a40;
+    padding-top: 20px;
+  }
+  
+  #studentInfo p {
+    font-size: 1.1em;
+  }
+  
+  #marksTable {
+    margin-top: 20px;
+  }
+  
+  #marksTable table {
+    width: 100%;
+  }
+  
+  #marksTable th, #marksTable td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #dee2e6;
+  }
+  
+  #sgpaCgpa p {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
